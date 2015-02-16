@@ -1,0 +1,3 @@
+
+greetings(msg):
+	print(msg) 
